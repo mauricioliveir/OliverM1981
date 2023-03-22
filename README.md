@@ -11,7 +11,7 @@
 
 
 <p align="center">
-            <"https://img.shields.io/static/v1?style=plastic&logo=Clabel=C&message=LANGUAGE&color=lightgrey"/> 
+            <img src="https://img.shields.io/static/v1?style=plastic&logo=Clabel=C&message=LANGUAGE&color=lightgrey"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"width=60 />          
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"width=60 />            
             
