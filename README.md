@@ -11,9 +11,9 @@
 
 
 <p align="left">
-            <img src="https://img.shields.io/static/v1?label=C&message=PROGRAM&color=blue&style=plastic&logo=C"/>
-            <img src="https://img.shields.io/static/v1?label=GitHub&message=REMOTE SERVER&color=blue&style=plastic&logo=GitHub"/>
-            <img src="https://img.shields.io/static/v1?label=LINUX&message=Linux&color=blue&style=plastic&logo=Linux"/>
+            <img src="https://img.shields.io/static/v1?message=PROGRAM&color=blue&style=plastic&logo=C"/>
+            <img src="https://img.shields.io/static/v1?message=REMOTE SERVER&color=blue&style=plastic&logo=GitHub"/>
+            <img src="https://img.shields.io/static/v1?message=Linux&color=blue&style=plastic&logo=Linux"/>
                  
           
  </p> 
