@@ -4,9 +4,7 @@
 
 
 
-<h2 align="left">
-  Ferramentas e Tecnologias
-    </h2>
+###Ferramentas e Tecnologias
 <br>
 
 <p align="center">
