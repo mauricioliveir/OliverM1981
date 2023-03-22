@@ -10,11 +10,11 @@
 </h1> 
 
 
-<p align="center">
-            <img src="https://img.shields.io/c/v1?style=plastic&logo=C&label=C&message=LANGUAGE&color=lightgrey"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"width=60 />          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"width=60 />            
-            
+<p align="left">
+            <img src="https://img.shields.io/static/v1?label=C&message=PROGRAM&color=blue&style=for-the-badge&logo=C"/>
+            <img src="https://img.shields.io/static/v1?label=GitHub&message=REMOTE SERVER&color=blue&style=for-the-badge&logo=GitHub"/>
+            <img src="https://img.shields.io/static/v1?label=LINUX&message=Linux&color=blue&style=for-the-badge&logo=Linux"/>
+                 
           
  </p> 
  <br>
