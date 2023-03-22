@@ -1,9 +1,12 @@
 # Olá, me chamo Mauricio De Oliveira. 
 ## Bem vindo ao meu perfil do GitHub!! 👋
-##Ferramentas e Tecnologias
+<br>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>   
+<h2 align="left"Ferramentas e Tecnologias</h2><br>
+
+<p>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></p>  
           
 
 
