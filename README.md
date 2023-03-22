@@ -12,8 +12,8 @@
 
 <p align="left">
             <img src="https://img.shields.io/static/v1?label=&message=PROGRAM&color=blue&style=plastic&logo=C"/>
-            <img src="https://img.shields.io/static/v1?label=message=REMOTE SERVER&color=blue&style=plastic&logo=GitHub"/>
-            <img src="https://img.shields.io/static/v1?label=message=Linux&color=blue&style=plastic&logo=Linux"/>
+            <img src="https://img.shields.io/static/v1?label=&message=REMOTE SERVER&color=blue&style=plastic&logo=GitHub"/>
+            <img src="https://img.shields.io/static/v1?label=&message=Linux&color=blue&style=plastic&logo=Linux"/>
                  
           
  </p> 
