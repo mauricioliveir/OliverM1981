@@ -1,9 +1,5 @@
 # Olá, me chamo Mauricio De Oliveira. 
 ## Bem vindo ao meu perfil do GitHub!! 👋
-<br>
-
-
-
 ###Ferramentas e Tecnologias
 <br>
 
