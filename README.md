@@ -18,12 +18,7 @@ Ferramentas e Tecnologias
 </div><br>
 
         
- <div>        
-          
-![Snake animation](https://github.com/OliverM1981/OliverM1981/blob/output/github-contribution-grid-snake.svg)
-  
-</div><br>
-
+ 
 <!--
 **OliverM1981/OliverM1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
