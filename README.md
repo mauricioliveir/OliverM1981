@@ -10,15 +10,12 @@
 </h1> 
 
 
-<p align="left">
+
             
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-            <img src="https://img.shields.io/static/v1?label= &message=PROGRAM&color=blue&style=plastic&logo=C"/>
-            <img src="https://img.shields.io/static/v1?label= &message=REMOTE SERVER&color=blue&style=plastic&logo=GitHub"/>
-            <img src="https://img.shields.io/static/v1?label= &message=LINUX&color=blue&style=plastic&logo=Linux"/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
                  
           
- </p> 
+
  <br>
 <h2>        
           
