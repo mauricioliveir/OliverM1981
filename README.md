@@ -2,6 +2,8 @@
 ## Bem vindo ao meu perfil do GitHub!! 👋
 <br>
 
+
+
 <h2 align="left">
   Ferramentas e Tecnologias
     </h2>
@@ -10,14 +12,18 @@
 <p align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40"/>      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="40"/>
-</p>  
+</p>  <br><br><br>
           
-
+<div>
+<a href="https://github.com/OliverM1981">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div><br>
 
         
           
           
-
+![Snake animation](https://github.com/OliverM1981/OliverM1981/blob/output/github-contribution-grid-snake.svg)
 <!--
 **OliverM1981/OliverM1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
