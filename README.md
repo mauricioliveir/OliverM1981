@@ -4,12 +4,9 @@
 <h3 align="left">
 Ferramentas e Tecnologias
  </h3>
-<br>
+<br> <br><br><br>
 
-<p align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40"/>      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="40"/>
-</p>  <br><br><br>
           
 <div>
 <a href="https://github.com/OliverM1981">
