@@ -16,6 +16,9 @@ Ferramentas e Tecnologias
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverM1981&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OliverM1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div><br>
+ 
+ 
+ ![github-contribution-grid-snake](https://user-images.githubusercontent.com/29084827/164712340-6b03015f-a428-4731-b1b9-a5605de203b2.svg)
 
         
  
